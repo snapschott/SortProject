@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andrew\AndroidStudioProjects\TestApp\app\libs\httpmime-4.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="889fd6d061bb63b99dd5c6aba35a555ae863de52">
+        <dex dex="C:\Users\Andrew\AndroidStudioProjects\TestApp\app\build\intermediates\pre-dexed\debug\httpmime-4.5.3_68994c737931de838f6d725a52e323cc937efff1.jar" />
+    </item>
+
+</items>
